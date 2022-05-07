@@ -1,0 +1,165 @@
+{
+  "pokemon": [
+    {
+      "name": "Bulbasaur",
+      "hp": 45,
+      "attack": 49,
+      "defense": 49,
+      "type": "Grass",
+      "OwnBy": "0",
+      "id": 0,
+      "level": null
+    },
+    {
+      "name": "Charmander",
+      "hp": 39,
+      "attack": 52,
+      "defense": 43,
+      "type": "Fire",
+      "OwnBy": "0",
+      "id": 1,
+      "level": null
+
+    },
+    {
+      "name": "Squirtle",
+      "hp": 44,
+      "attack": 48,
+      "defense": 65,
+      "type": "Water",
+      "OwnBy": "0",
+      "id": 2,
+      "level": null
+    },
+    {
+      "name": "Pidgey",
+      "hp": 40,
+      "attack": 45,
+      "defense": 40,
+      "type": "Normal",
+      "OwnBy": "0",
+      "id": 3,
+      "level": null
+    },
+    {
+      "name": "Rattata",
+      "hp": 30,
+      "attack": 56,
+      "defense": 35,
+      "type": "Normal",
+      "OwnBy": "0",
+      "id": 4,
+      "level": null
+    },
+    {
+      "name": "Pikachu",
+      "hp": 35,
+      "attack": 55,
+      "defense": 40,
+      "type": "Electric",
+      "OwnBy": "0",
+      "id": 5,
+      "level": null
+    },
+    {
+      "name": "Jigglypuff",
+      "hp": 115,
+      "attack": 45,
+      "defense": 20,
+      "type": "Normal",
+      "OwnBy": "0",
+      "id": 6,
+      "level": null
+    },
+    {
+      "name": "Diglett",
+      "hp": 10,
+      "attack": 55,
+      "defense": 25,
+      "type": "Ground",
+      "OwnBy": "0",
+      "id": 7,
+      "level": null
+    },
+    {
+      "name": "Machop",
+      "hp": 70,
+      "attack": 80,
+      "defense": 50,
+      "type": "Fighting",
+      "OwnBy": "0",
+      "id": 8,
+      "level": null
+    },
+    {
+      "name": "Tentacool",
+      "hp": 40,
+      "attack": 40,
+      "defense": 35,
+      "type": "Water",
+      "OwnBy": "0",
+      "id": 9,
+      "level": null
+    },
+    {
+      "name": "Geodude",
+      "hp": 40,
+      "attack": 80,
+      "defense": 100,
+      "type": "Rock",
+      "OwnBy": "0",
+      "id": 10,
+      "level": null
+    },
+    {
+      "name": "Slowpoke",
+      "hp": 90,
+      "attack": 65,
+      "defense": 65,
+      "type": "Water",
+      "OwnBy": "0",
+      "id": 11,
+      "level": null
+    },
+    {
+      "name": "Magnemite",
+      "hp": 25,
+      "attack": 35,
+      "defense": 70,
+      "type": "Electric",
+      "OwnBy": "0",
+      "id": 12,
+      "level": null
+    },
+    {
+      "name": "Hitmonlee",
+      "hp": 50,
+      "attack": 120,
+      "defense": 53,
+      "type": "Fighting",
+      "OwnBy": "0",
+      "id": 13,
+      "level": null
+    },
+    {
+      "name": "Chansey",
+      "hp": 250,
+      "attack": 5,
+      "defense": 5,
+      "type": "Normal",
+      "OwnBy": "0",
+      "id": 14,
+      "level": null
+    },
+    {
+      "name": "MrMime",
+      "hp": 40,
+      "attack": 45,
+      "defense": 65,
+      "type": "Psychic",
+      "OwnBy": "0",
+      "id": 15,
+      "level": null
+    }
+  ]
+}
